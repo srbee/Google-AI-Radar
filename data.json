@@ -1,14 +1,23 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-03T16:28:28.234032+00:00",
   "items": [
     {
-      "id": "ai-blog-2026-09",
-      "date": "2026-09-18",
-      "cat": "research",
+      "id": "labs-2026-current",
+      "date": "2026-10-03",
+      "cat": "labs",
+      "source": "Google Labs",
+      "title": "Google Labs — current experiments",
+      "desc": "Current experiments include Google Flow Music, Flow, Stitch, Pomelli, Disco, Opal, Jules and AI-for-science tools.",
+      "url": "https://labs.google/"
+    },
+    {
+      "id": "rss:1122627a66dfc215",
+      "date": "2026-10-02",
+      "cat": "products",
       "source": "Google AI Blog",
-      "title": "Building AI to accelerate science and improve lives",
-      "desc": "Google's AI roundup and links to current Gemini, research and developer developments.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/"
+      "title": "The latest AI news we announced in September 2026",
+      "desc": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
     },
     {
       "id": "deepmind-2026-09-latest",
@@ -18,15 +27,6 @@
       "title": "Google DeepMind — September 2026 developments",
       "desc": "Current official DeepMind news includes new Gemini releases, SynthID Bio, WeatherNext 3, agentic video understanding and more.",
       "url": "https://deepmind.google/blog/"
-    },
-    {
-      "id": "labs-2026-current",
-      "date": "2026-10-03",
-      "cat": "labs",
-      "source": "Google Labs",
-      "title": "Google Labs — current experiments",
-      "desc": "Current experiments include Google Flow Music, Flow, Stitch, Pomelli, Disco, Opal, Jules and AI-for-science tools.",
-      "url": "https://labs.google/"
     },
     {
       "id": "deepmind-science",
@@ -45,6 +45,186 @@
       "title": "Explore Google DeepMind models",
       "desc": "Official model directory covering Gemini, Veo, Imagen, Lyria, Gemma, Genie and Gemini Robotics.",
       "url": "https://deepmind.google/models/"
+    },
+    {
+      "id": "rss:1eadd5627184a89f",
+      "date": "2026-09-28",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "desc": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+    },
+    {
+      "id": "rss:8a86c97089bb6492",
+      "date": "2026-09-23",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "desc": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+    },
+    {
+      "id": "ai-blog-2026-09",
+      "date": "2026-09-18",
+      "cat": "research",
+      "source": "Google AI Blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "desc": "Google's AI roundup and links to current Gemini, research and developer developments.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/"
+    },
+    {
+      "id": "rss:079e661c04cec0b0",
+      "date": "2026-09-18",
+      "cat": "research",
+      "source": "Google AI Blog",
+      "title": "New experts join Google’s AI & Economy team",
+      "desc": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+    },
+    {
+      "id": "rss:13d62ca6fcfd55d7",
+      "date": "2026-09-18",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Co-creating the future of fashion with Google",
+      "desc": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+    },
+    {
+      "id": "rss:e7b9d12d1b3a7eb0",
+      "date": "2026-09-17",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Making global data easier to explore",
+      "desc": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+    },
+    {
+      "id": "rss:18592959ad29d5e2",
+      "date": "2026-09-15",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "AI for Societal Impact",
+      "desc": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+    },
+    {
+      "id": "rss:b86d9a766fb72b73",
+      "date": "2026-09-15",
+      "cat": "research",
+      "source": "Google AI Blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "desc": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+    },
+    {
+      "id": "rss:a243976a4aeffe78",
+      "date": "2026-09-15",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "AI for everyone in every language",
+      "desc": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+    },
+    {
+      "id": "rss:00e29a681a6f5e3b",
+      "date": "2026-09-15",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "desc": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+    },
+    {
+      "id": "rss:b49b47db0b359f67",
+      "date": "2026-09-14",
+      "cat": "research",
+      "source": "Google AI Blog",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "desc": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+    },
+    {
+      "id": "rss:bf70dc826a65d37e",
+      "date": "2026-09-14",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "DevFest is back",
+      "desc": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+    },
+    {
+      "id": "rss:1852061b5cf6950b",
+      "date": "2026-09-10",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "3 ways to prep for your next big race with Search",
+      "desc": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    },
+    {
+      "id": "rss:b0dd0e34ba0b936c",
+      "date": "2026-09-09",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Get ready for the game with new football features in Search",
+      "desc": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
+    },
+    {
+      "id": "rss:e8269fc9a10961e9",
+      "date": "2026-09-09",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Recreating a 70-year love story frame by frame",
+      "desc": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+    },
+    {
+      "id": "rss:28b149c75e15ee18",
+      "date": "2026-09-02",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "desc": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+    },
+    {
+      "id": "rss:66eabab6976f3ac7",
+      "date": "2026-09-01",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "The latest AI news we announced in August 2026",
+      "desc": "Here are Google’s latest AI updates from August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+    },
+    {
+      "id": "rss:77cd2a6a82f1c4f3",
+      "date": "2026-09-01",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "desc": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+    },
+    {
+      "id": "rss:5a6b85529262921a",
+      "date": "2026-08-27",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "3 new ways to plan and book travel in Search",
+      "desc": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+    },
+    {
+      "id": "rss:5f0b03166bf11074",
+      "date": "2026-08-25",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "desc": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
     }
   ]
 }
