@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T16:28:28.234032+00:00",
+  "updated": "2026-10-03T21:25:57.766075+00:00",
   "items": [
     {
       "id": "labs-2026-current",
@@ -47,6 +47,24 @@
       "url": "https://deepmind.google/models/"
     },
     {
+      "id": "rss:15e70ee5e4a75a6c",
+      "date": "2026-09-30",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "desc": "",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+    },
+    {
+      "id": "rss:0a622a33b8e3e3e9",
+      "date": "2026-09-30",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Introducing SynthID Bio",
+      "desc": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+    },
+    {
       "id": "rss:1eadd5627184a89f",
       "date": "2026-09-28",
       "cat": "products",
@@ -56,6 +74,15 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
     },
     {
+      "id": "rss:e7107d9a76d915c4",
+      "date": "2026-09-24",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+    },
+    {
       "id": "rss:8a86c97089bb6492",
       "date": "2026-09-23",
       "cat": "products",
@@ -63,6 +90,24 @@
       "title": "Google Beam expands with new regions, partners, and customers",
       "desc": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+    },
+    {
+      "id": "rss:4c4abcff4acd2c4c",
+      "date": "2026-09-23",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "desc": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+    },
+    {
+      "id": "rss:be2314c62992cc2b",
+      "date": "2026-09-23",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "desc": "",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
     },
     {
       "id": "ai-blog-2026-09",
@@ -137,6 +182,15 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
     },
     {
+      "id": "rss:f4c3141ce9f2ce84",
+      "date": "2026-09-15",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+    },
+    {
       "id": "rss:b49b47db0b359f67",
       "date": "2026-09-14",
       "cat": "research",
@@ -182,6 +236,24 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
     },
     {
+      "id": "rss:80d284f58871ce28",
+      "date": "2026-09-08",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "desc": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+    },
+    {
+      "id": "rss:56da2c8ef80375f1",
+      "date": "2026-09-03",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+    },
+    {
       "id": "rss:28b149c75e15ee18",
       "date": "2026-09-02",
       "cat": "products",
@@ -189,6 +261,24 @@
       "title": "Proactive cyber defense for governments and enterprises",
       "desc": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+    },
+    {
+      "id": "rss:383dbcd782aba68f",
+      "date": "2026-09-02",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "desc": "",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+    },
+    {
+      "id": "rss:18ef68f77655a435",
+      "date": "2026-09-02",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
     },
     {
       "id": "rss:66eabab6976f3ac7",
@@ -209,6 +299,15 @@
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
     },
     {
+      "id": "rss:dfd1ea2e5518b0ed",
+      "date": "2026-09-01",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing agentic video understanding with Gemini",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+    },
+    {
       "id": "rss:5a6b85529262921a",
       "date": "2026-08-27",
       "cat": "products",
@@ -218,6 +317,33 @@
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
     },
     {
+      "id": "rss:a13e39d4fa54504b",
+      "date": "2026-08-27",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "desc": "",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+    },
+    {
+      "id": "rss:d9b2bc36ffdfc77e",
+      "date": "2026-08-27",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "desc": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+    },
+    {
+      "id": "rss:83abfc082897739b",
+      "date": "2026-08-26",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "desc": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+    },
+    {
       "id": "rss:5f0b03166bf11074",
       "date": "2026-08-25",
       "cat": "products",
@@ -225,6 +351,240 @@
       "title": "5 ways to upgrade your home decor with Google Search",
       "desc": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+    },
+    {
+      "id": "rss:06daba08af15aa42",
+      "date": "2026-08-21",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "desc": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+    },
+    {
+      "id": "rss:068e562e05123807",
+      "date": "2026-08-13",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.7 Flash",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+    },
+    {
+      "id": "rss:f5d9b5f669dc0283",
+      "date": "2026-08-12",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Putting sign language AI into users’ hands",
+      "desc": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+    },
+    {
+      "id": "rss:7fa201e30c7e3776",
+      "date": "2026-08-06",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "desc": "",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+    },
+    {
+      "id": "rss:06b8d0ad6f63e2ce",
+      "date": "2026-07-30",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "desc": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+    },
+    {
+      "id": "rss:705bd6c095e82bdb",
+      "date": "2026-07-29",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "desc": "",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+    },
+    {
+      "id": "rss:7909c613945e81a8",
+      "date": "2026-07-28",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "desc": "",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    },
+    {
+      "id": "rss:15eb5b1c419aea07",
+      "date": "2026-07-22",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "desc": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+    },
+    {
+      "id": "rss:edd884e3eb651634",
+      "date": "2026-07-21",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "desc": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
+    },
+    {
+      "id": "rss:7898549b95c3b8f5",
+      "date": "2026-07-17",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "desc": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"
+    },
+    {
+      "id": "rss:287800377f1b76b7",
+      "date": "2026-07-16",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Our approach to bioresilience",
+      "desc": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+    },
+    {
+      "id": "rss:66188580349f59ed",
+      "date": "2026-07-13",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "desc": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
+    },
+    {
+      "id": "rss:e29a8bbb0a777ff9",
+      "date": "2026-07-03",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "desc": "",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+    },
+    {
+      "id": "rss:adbaffb551ff1b45",
+      "date": "2026-06-30",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "desc": "",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+    },
+    {
+      "id": "rss:0ce8c6adc247f334",
+      "date": "2026-06-24",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+    },
+    {
+      "id": "rss:12ceb5f0dc7b30a8",
+      "date": "2026-06-16",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "desc": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+    },
+    {
+      "id": "rss:ae74216dee389070",
+      "date": "2026-06-16",
+      "cat": "research",
+      "source": "Google DeepMind",
+      "title": "Securing the future of AI agents",
+      "desc": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+    },
+    {
+      "id": "rss:d9665153cdf2820d",
+      "date": "2026-06-10",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "desc": "",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+    },
+    {
+      "id": "rss:90b62352ebbd8dd2",
+      "date": "2026-06-10",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Investing in multi-agent AI safety research",
+      "desc": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+    },
+    {
+      "id": "rss:8065dada88d89276",
+      "date": "2026-06-09",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "desc": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+    },
+    {
+      "id": "rss:9be096effcbb1e03",
+      "date": "2026-06-09",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+    },
+    {
+      "id": "rss:89b36a5b3c5b5938",
+      "date": "2026-06-09",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Powering the future of robotics in Europe",
+      "desc": "",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
+    },
+    {
+      "id": "rss:e28e77d243e843a2",
+      "date": "2026-06-08",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "desc": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"
+    },
+    {
+      "id": "rss:cf9e5a542f53fd87",
+      "date": "2026-05-21",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "desc": "",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/"
+    },
+    {
+      "id": "rss:2758b59a9d96871d",
+      "date": "2026-05-18",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "desc": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/"
+    },
+    {
+      "id": "rss:c120575d799b8685",
+      "date": "2026-05-17",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "desc": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/"
     }
   ]
 }
