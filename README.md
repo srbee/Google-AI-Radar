@@ -2,36 +2,50 @@
 
 A mobile-first GitHub Pages dashboard for tracking Google's AI ecosystem from **official Google sources**.
 
-## Current version
+## What it does
 
-The starter edition provides:
+- **Automatic updates** from Google's official AI Blog and Google DeepMind RSS feeds.
+- Keeps a rolling archive of up to 500 official items.
+- Search across the archive.
+- Filter by Products, Models, Labs, DeepMind, Research, Science, Developer and History.
+- Marks items **NEW** until you mark them read on your device.
+- Links directly to the original Google source.
+- Includes an official Google Labs directory for experiments such as Flow Music, Flow, Stitch, Pomelli, Disco, Opal and Jules.
+- Runs as a static GitHub Pages site; the updater runs in GitHub Actions.
 
-- Latest-first radar layout
-- Search
-- Category filters
-- Direct links to official Google pages
-- Mobile-friendly design
-- No third-party news dependency
+Google Labs is Google's home for AI experiments, and its current directory includes Flow Music and other experiments. citeturn0search3
 
-## Official sources
+## Automatic data sources
 
-- Google AI: https://ai.google/
-- Google AI Products: https://ai.google/products/
-- Google Labs: https://labs.google/
-- Google AI Blog: https://blog.google/innovation-and-ai/
-- Google DeepMind: https://deepmind.google/
-- DeepMind Research Projects: https://deepmind.google/research/projects/
+The updater uses:
 
-## Roadmap
+- Google AI Blog RSS: https://blog.google/innovation-and-ai/technology/ai/rss/
+- Google DeepMind RSS: https://deepmind.google/blog/rss.xml
+- Google Labs directory: https://labs.google/
+- Google DeepMind research: https://deepmind.google/research/
 
-The next major layer is automated ingestion from Google's official RSS/Atom feeds and announcement pages, with:
+The public-facing radar deliberately keeps the **horse's-mouth principle**: the feed items come from Google's own domains.
 
-1. Automatic new-item discovery
-2. Deduplication
-3. Category classification
-4. "New since last visit"
-5. Archive/search
-6. Retired/replaced project tracking
-7. GitHub Actions scheduled refresh
+## GitHub Actions
 
-The design deliberately treats Google itself as the primary source ("horse's mouth") and can later add secondary sources as an explicitly separate layer.
+Workflow:
+
+`.github/workflows/update-radar.yml`
+
+It runs every 6 hours, can be started manually from **Actions → Update Google AI Radar**, and also runs when the workflow file changes.
+
+The action writes the generated archive to:
+
+`data.json`
+
+## GitHub Pages
+
+Enable Pages with:
+
+**Settings → Pages → Deploy from a branch → main → /(root)**
+
+The site then follows the normal GitHub Pages URL for this repository.
+
+## Important limitation
+
+Google does not expose one public, comprehensive feed containing every AI product, experiment, research project and lifecycle change. The radar therefore combines automated official feeds with curated official directories. That is intentional: completeness is improved without silently introducing third-party reporting.
