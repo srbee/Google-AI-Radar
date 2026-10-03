@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10152b">
+  <title>Google AI Radar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="eyebrow">HORSE'S MOUTH • GOOGLE ONLY</div>
+    <h1>🛰️ Google AI Radar</h1>
+    <p>Track Google's AI products, models, experiments and research from official Google sources.</p>
+    <div class="controls">
+      <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search Google AI…" autocomplete="off"></label>
+      <button id="refresh" class="primary">↻ Refresh</button>
+    </div>
+    <div class="meta"><span id="status">Loading official sources…</span><span id="count"></span></div>
+  </header>
+
+  <nav class="filters" id="filters" aria-label="Categories">
+    <button class="active" data-filter="all">All</button>
+    <button data-filter="products">Products</button>
+    <button data-filter="models">Models</button>
+    <button data-filter="labs">Labs</button>
+    <button data-filter="deepmind">DeepMind</button>
+    <button data-filter="research">Research</button>
+    <button data-filter="developer">Developer</button>
+  </nav>
+
+  <main>
+    <section class="notice">
+      <strong>Official-source principle</strong>
+      <span>This radar is designed to prioritize Google's own announcements and project pages—not third-party reporting.</span>
+    </section>
+    <section id="feed" class="feed" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <div><strong>Google AI Radar</strong> · built for staying ahead without the noise.</div>
+    <div class="links">
+      <a href="https://ai.google/" target="_blank" rel="noopener">Google AI</a>
+      <a href="https://labs.google/" target="_blank" rel="noopener">Google Labs</a>
+      <a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind</a>
+      <a href="https://blog.google/innovation-and-ai/" target="_blank" rel="noopener">Google AI Blog</a>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
