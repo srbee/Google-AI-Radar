@@ -1,0 +1,100 @@
+name: Update Google AI Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    paths:
+      - ".github/workflows/update-radar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch official Google feeds
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python3 <<'PY'
+          import json, re, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+
+          SOURCES = [
+            ("https://blog.google/innovation-and-ai/technology/ai/rss/", "Google AI Blog"),
+            ("https://deepmind.google/blog/rss.xml", "Google DeepMind"),
+          ]
+
+          def get(url):
+              req=urllib.request.Request(url, headers={"User-Agent":"Google-AI-Radar/1.0"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  return r.read()
+
+          def text(el, names):
+              for name in names:
+                  x=el.find(name)
+                  if x is not None and x.text:
+                      return re.sub(r"\\s+"," ",x.text).strip()
+              return ""
+
+          def clean_html(s):
+              s=re.sub(r"<[^>]+>"," ",s or "")
+              return re.sub(r"\\s+"," ",s).strip()
+
+          def classify(title, desc, source):
+              t=(title+" "+desc).lower()
+              if source=="Google DeepMind":
+                  if any(k in t for k in ["weather","alphagenome","alphafold","science","protein","genome","discovery","climate","biology","research"]): return "science"
+                  if any(k in t for k in ["gemini","gemma","veo","lyria","imagen","genie","robotics","model","transcribe","nano banana"]): return "models"
+                  if any(k in t for k in ["agent","research","sima","world model"]): return "research"
+                  return "deepmind"
+              if any(k in t for k in ["gemini","veo","lyria","gemma","model","imagen","nano banana"]): return "models"
+              if any(k in t for k in ["developer","api","ai studio","antigravity","coding"]): return "developer"
+              if any(k in t for k in ["research","science","alpha","weather"]): return "research"
+              return "products"
+
+          old={"items":[]}
+          try:
+              with open("data.json",encoding="utf-8") as f: old=json.load(f)
+          except FileNotFoundError: pass
+
+          merged={x.get("id"):x for x in old.get("items",[]) if x.get("id")}
+          for url,source in SOURCES:
+              try:
+                  root=ET.fromstring(get(url))
+                  for item in root.findall(".//item")[:40]:
+                      title=text(item,["title"])
+                      link=text(item,["link"])
+                      desc=clean_html(text(item,["description","summary"]))
+                      pub=text(item,["pubDate","published","updated"])
+                      try:
+                          from email.utils import parsedate_to_datetime
+                          dt=parsedate_to_datetime(pub).astimezone(timezone.utc).date().isoformat()
+                      except Exception:
+                          dt=datetime.now(timezone.utc).date().isoformat()
+                      if not title or not link: continue
+                      ident="rss:"+__import__("hashlib").sha1(link.encode()).hexdigest()[:16]
+                      merged[ident]={"id":ident,"date":dt,"cat":classify(title,desc,source),"source":source,"title":title,"desc":desc[:500],"url":link}
+              except Exception as e:
+                  print("Feed failed:",source,e)
+
+          items=sorted(merged.values(),key=lambda x:x.get("date",""),reverse=True)[:500]
+          payload={"updated":datetime.now(timezone.utc).isoformat(),"items":items}
+          with open("data.json","w",encoding="utf-8") as f:
+              json.dump(payload,f,ensure_ascii=False,indent=2)
+          print("Radar contains",len(items),"items")
+          PY
+
+      - name: Commit updated radar data
+        run: |
+          git config user.name "google-ai-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "Update Google AI Radar data"
+          git push
