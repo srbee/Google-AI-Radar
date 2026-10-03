@@ -1,0 +1,50 @@
+{
+  "updated": "2026-10-03",
+  "items": [
+    {
+      "id": "ai-blog-2026-09",
+      "date": "2026-09-18",
+      "cat": "research",
+      "source": "Google AI Blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "desc": "Google's AI roundup and links to current Gemini, research and developer developments.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/"
+    },
+    {
+      "id": "deepmind-2026-09-latest",
+      "date": "2026-09-30",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Google DeepMind — September 2026 developments",
+      "desc": "Current official DeepMind news includes new Gemini releases, SynthID Bio, WeatherNext 3, agentic video understanding and more.",
+      "url": "https://deepmind.google/blog/"
+    },
+    {
+      "id": "labs-2026-current",
+      "date": "2026-10-03",
+      "cat": "labs",
+      "source": "Google Labs",
+      "title": "Google Labs — current experiments",
+      "desc": "Current experiments include Google Flow Music, Flow, Stitch, Pomelli, Disco, Opal, Jules and AI-for-science tools.",
+      "url": "https://labs.google/"
+    },
+    {
+      "id": "deepmind-science",
+      "date": "2026-09-30",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "AI for science — latest breakthroughs",
+      "desc": "Official science work includes AlphaGenome Atlas, WeatherNext 3 and other AI-enabled discovery projects.",
+      "url": "https://deepmind.google/research/"
+    },
+    {
+      "id": "deepmind-models",
+      "date": "2026-09-30",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Explore Google DeepMind models",
+      "desc": "Official model directory covering Gemini, Veo, Imagen, Lyria, Gemma, Genie and Gemini Robotics.",
+      "url": "https://deepmind.google/models/"
+    }
+  ]
+}
