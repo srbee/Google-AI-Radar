@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T06:08:48.812554+00:00",
+  "updated": "2026-10-07T13:34:18.429593+00:00",
   "items": [
+    {
+      "id": "rss:22643d6fcb195220",
+      "date": "2026-10-07",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Introducing Playground: Create and play custom games",
+      "desc": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+    },
     {
       "id": "labs-2026-current",
       "date": "2026-10-03",
