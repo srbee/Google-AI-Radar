@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T13:15:15.593938+00:00",
+  "updated": "2026-10-26T22:44:55.022139+00:00",
   "items": [
+    {
+      "id": "rss:be77c96c39b4ea3e",
+      "date": "2026-10-26",
+      "cat": "research",
+      "source": "Google AI Blog",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "desc": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+    },
     {
       "id": "rss:e66e9796ba6be5e9",
       "date": "2026-10-22",
