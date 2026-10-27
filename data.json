@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T12:22:56.698916+00:00",
+  "updated": "2026-10-27T22:22:22.214431+00:00",
   "items": [
+    {
+      "id": "rss:d17d13a0006a776d",
+      "date": "2026-10-27",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Genie 4: A new generation of world simulation",
+      "desc": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
     {
       "id": "rss:be77c96c39b4ea3e",
       "date": "2026-10-26",
