@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T13:08:53.950028+00:00",
+  "updated": "2026-10-28T22:40:43.706260+00:00",
   "items": [
+    {
+      "id": "rss:b0da25ea6c1a2967",
+      "date": "2026-10-28",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "desc": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    },
     {
       "id": "rss:d17d13a0006a776d",
       "date": "2026-10-27",
