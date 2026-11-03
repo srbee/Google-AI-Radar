@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T06:57:06.779167+00:00",
+  "updated": "2026-11-03T19:34:17.446795+00:00",
   "items": [
+    {
+      "id": "rss:7b04a568c5adccd6",
+      "date": "2026-11-03",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
     {
       "id": "rss:b810030289ed799f",
       "date": "2026-11-02",
