@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:46:24.933681+00:00",
+  "updated": "2026-11-03T06:57:06.779167+00:00",
   "items": [
     {
       "id": "rss:b810030289ed799f",
@@ -9,6 +9,15 @@
       "title": "The latest AI news we announced in October 2026",
       "desc": "Here are Google’s latest AI updates from October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+    },
+    {
+      "id": "rss:094c331a98fae894",
+      "date": "2026-10-30",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Speeding up planning decisions with AI",
+      "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
     },
     {
       "id": "rss:b0da25ea6c1a2967",
