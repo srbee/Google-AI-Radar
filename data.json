@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-10T07:27:33.674516+00:00",
+  "updated": "2026-11-10T19:50:21.596810+00:00",
   "items": [
+    {
+      "id": "rss:ac5a661efbfd509d",
+      "date": "2026-11-10",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "desc": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    },
+    {
+      "id": "rss:c5fffc8a0cbdc3d4",
+      "date": "2026-11-10",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "desc": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "id": "rss:155d33cae7267931",
+      "date": "2026-11-10",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "desc": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    },
+    {
+      "id": "rss:0b2e1c02de474f20",
+      "date": "2026-11-10",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon is now available",
+      "desc": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "id": "rss:428ac4b42c0b5f39",
+      "date": "2026-11-10",
+      "cat": "research",
+      "source": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "desc": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "id": "rss:a98763b80c842ad2",
+      "date": "2026-11-09",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+    },
     {
       "id": "rss:63c3d56bc72bc9e8",
       "date": "2026-11-05",
