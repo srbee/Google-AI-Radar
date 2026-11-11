@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-11T06:40:45.647619+00:00",
+  "updated": "2026-11-11T19:41:56.099816+00:00",
   "items": [
+    {
+      "id": "rss:8e4104a923ec61a4",
+      "date": "2026-11-11",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "desc": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "rss:97adab01dbf7344a",
+      "date": "2026-11-11",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "desc": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+    },
+    {
+      "id": "rss:7e65614cc89aac7b",
+      "date": "2026-11-11",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "desc": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+    },
+    {
+      "id": "rss:5b916f1bea878c9c",
+      "date": "2026-11-11",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
     {
       "id": "rss:ac5a661efbfd509d",
       "date": "2026-11-10",
