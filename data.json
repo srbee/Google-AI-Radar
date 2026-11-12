@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-12T07:21:52.908282+00:00",
+  "updated": "2026-11-12T20:03:46.689131+00:00",
   "items": [
+    {
+      "id": "rss:459a57b4750adf48",
+      "date": "2026-11-12",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "desc": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "id": "rss:4bad5afe01a19f79",
+      "date": "2026-11-12",
+      "cat": "models",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "desc": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
     {
       "id": "rss:8e4104a923ec61a4",
       "date": "2026-11-11",
