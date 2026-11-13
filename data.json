@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:54:26.707076+00:00",
+  "updated": "2026-11-13T19:50:14.757825+00:00",
   "items": [
     {
       "id": "rss:459a57b4750adf48",
@@ -99,6 +99,15 @@
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "desc": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "id": "rss:51d2fad240453466",
+      "date": "2026-11-10",
+      "cat": "science",
+      "source": "Google DeepMind",
+      "title": "Opening the datasets behind our AI weather models",
+      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
     },
     {
       "id": "rss:a98763b80c842ad2",
