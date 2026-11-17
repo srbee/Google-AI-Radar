@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T08:04:02.331928+00:00",
+  "updated": "2026-11-17T21:01:53.492443+00:00",
   "items": [
+    {
+      "id": "rss:357d085ae06f4ca2",
+      "date": "2026-11-17",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Put Gemini to work for you",
+      "desc": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
     {
       "id": "rss:717626b76ea030ce",
       "date": "2026-11-16",
