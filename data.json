@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-19T07:36:01.853080+00:00",
+  "updated": "2026-11-19T20:45:41.380553+00:00",
   "items": [
+    {
+      "id": "rss:57728669e04868ae",
+      "date": "2026-11-19",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "desc": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    },
+    {
+      "id": "rss:c3e7758a237362e2",
+      "date": "2026-11-19",
+      "cat": "products",
+      "source": "Google AI Blog",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "desc": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+    },
     {
       "id": "rss:03ca256a4adf4087",
       "date": "2026-11-18",
