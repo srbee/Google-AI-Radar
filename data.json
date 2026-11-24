@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T10:02:11.221783+00:00",
+  "updated": "2026-11-24T22:33:44.212549+00:00",
   "items": [
+    {
+      "id": "rss:8d6c7c64bc859895",
+      "date": "2026-11-24",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "desc": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
     {
       "id": "rss:c5903c8754bbbfd5",
       "date": "2026-11-23",
