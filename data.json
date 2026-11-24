@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-23T07:50:36.219561+00:00",
+  "updated": "2026-11-24T00:00:00.351393+00:00",
   "items": [
+    {
+      "id": "rss:c5903c8754bbbfd5",
+      "date": "2026-11-23",
+      "cat": "models",
+      "source": "Google AI Blog",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "desc": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "id": "rss:9dddeb89e408dae0",
+      "date": "2026-11-23",
+      "cat": "research",
+      "source": "Google DeepMind",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "desc": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
     {
       "id": "rss:57728669e04868ae",
       "date": "2026-11-19",
