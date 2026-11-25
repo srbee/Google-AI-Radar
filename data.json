@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:47:09.824498+00:00",
+  "updated": "2026-11-25T21:48:31.110063+00:00",
   "items": [
     {
       "id": "rss:8d6c7c64bc859895",
@@ -9,6 +9,15 @@
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "desc": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "id": "rss:dd94f7af62fb3fa3",
+      "date": "2026-11-24",
+      "cat": "deepmind",
+      "source": "Google DeepMind",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "desc": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
     },
     {
       "id": "rss:c5903c8754bbbfd5",
